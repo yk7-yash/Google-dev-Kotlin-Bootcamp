@@ -1,2 +1,3 @@
 # Google-dev-Kotlin-Bootcamp
 This project was created based upon the knowledge gained from the 30 days of Kotlin campaign organised by Google Developers Community.
+Created a class called zoo, then created a secondary class in it to accommodate more animals in a single cage. Used the filter to locate animals in 'C' section. The property of getter and setter is implemented to make changes in the length of the cage, if another animal has to be added to it.The hash map is implemented in a way that it denotes the sound made by the animal. The pairs are used denote the sound made by animals in a better way as compared to hash maps.
